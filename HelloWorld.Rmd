@@ -1,0 +1,11 @@
+---
+title: "RStudio-Github Connection"
+author: "Kwaku Agyarko Denteh"
+date: "5/27/2021"
+output: html_document
+---
+
+
+## This is a markdown file
+
+
